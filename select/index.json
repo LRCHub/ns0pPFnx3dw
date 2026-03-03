@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Baby Paper Moon",
+  "base_artist": "VAnzy9th",
+  "createdAt": "2026-03-03T23:58:20.129408Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Baby Paper Moon",
+      "artist": "VAnzy9th",
+      "has_synced": false,
+      "path": "select/pl_01_Baby_Paper_Moon_VAnzy9th.txt"
+    }
+  ]
+}
